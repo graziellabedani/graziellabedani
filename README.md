@@ -1,5 +1,7 @@
 ### Oii! Meu nome é Graziella Bedani.
 
+- Aluna do projeto DevMenthors Marília-sp.
+- Bolsista Pibic em Iniciação Científica 🔬
 
 
 
