@@ -3,7 +3,12 @@
 - Aluna do projeto DevMenthors Marília-sp.
 - Bolsista Pibic em Iniciação Científica 🔬
 
-
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=graziellabedani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graziellabedani&layout=compact&langs_count=16&theme=dracula"/>
+  
+</div>
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
@@ -20,6 +25,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+![Snake animation](https://github.com/graziellabedani/graziellabedani/blob/output/github-contribution-grid-snake.svg)
 
 
 
