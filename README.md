@@ -1,8 +1,4 @@
 ### Oii! Meu nome é Graziella Bedani.
-- Téc. em Análise e Desenvolvimento de Sistemas 🖥️
-- Aluna do projeto DevMenthors. 
-- Bolsista Pibic em Iniciação Científica 🔬
-
 
 
 
