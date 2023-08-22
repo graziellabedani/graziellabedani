@@ -3,6 +3,8 @@
 
 - Aluna do projeto DevMenthors Marília-sp.
 - Bolsista Pibic em Iniciação Científica 🔬
+- 1/6 em Gerencia de Projeto 📚
+  
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=graziellabedani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
