@@ -3,7 +3,7 @@
 
 - Aluna do projeto DevMenthors Marília-sp.
 - Bolsista Pibic em Iniciação Científica 🔬
-- 1/8 Ciencias da Computação📚
+- 3/8 Ciencias da Computação📚
   
 
 <div>
