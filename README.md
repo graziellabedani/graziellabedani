@@ -1,9 +1,10 @@
-### Oii! Meu nome é Graziella Bedani.
-<hr>
+### Olá! Meu nome é Graziella Bedani. Seja muito bem-vindo!
 
-- Aluna do projeto DevMenthors Marília-sp.
+<hr>
+- Mentora e Coord. de Marketing do projeto DevMenthors | Marília-sp.
 - Bolsista Pibic em Iniciação Científica 🔬
 - 3/8 Ciencias da Computação📚
+- Analista Customer Service 
   
 
 <div>
