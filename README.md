@@ -1,7 +1,5 @@
 # Olá, eu sou a Graziella Bedani 👩‍💻
 
-![Graziella Bedani](https://via.placeholder.com/150)
-
 ## 🎓 Sobre mim
 
 Sou estudante de **Ciência da Computação** e apaixonada por tecnologia e inovação. Ao longo da minha jornada acadêmica, tive a oportunidade de me aprofundar em áreas como:
@@ -13,23 +11,18 @@ Sou estudante de **Ciência da Computação** e apaixonada por tecnologia e inov
 
 ## 🧪 Experiência Acadêmica
 
-- **Bolsista PIBIC** em Iniciação Científica, com foco em [tema do projeto]. Durante esse período, desenvolvi habilidades em pesquisa, análise de dados e elaboração de artigos científicos.
+- **Bolsista PIBIC** em Iniciação Científica, com foco em Sistematização dos processos de produção de cafés em propriedades cafeicultoras. Durante esse período, desenvolvi habilidades em pesquisa, análise de dados e elaboração de artigos científicos.
 
 ## 🚀 Formação Complementar
 
-- **Finalista do Bootcamp Sebrae Spark**, onde aprimorei minhas habilidades em desenvolvimento ágil, trabalho em equipe e resolução de problemas práticos.
-
-## 📚 Projetos em Destaque
-
-Aqui estão alguns dos meus projetos disponíveis neste repositório:
-
-- **[Project Agro](https://github.com/graziellabedani/Project_Agro)**: Aplicação web para visualização e gestão de dados do agronegócio.
-- **[Outro Projeto](https://github.com/graziellabedani/Outro_Projeto)**: Descrição breve do projeto.
+- **Finalista do Bootcamp Sebrae Spark**, onde aprimorei minhas habilidades em desenvolvimento ágil, trabalho em equipe e resolução de problemas práticos para startups.
+- **Finalista do 13 Congresso de pesquisa científica** - Melhor da sessão.
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/graziellabedani)
-- [Email](mailto:graziellabedani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/graziellabedani](https://www.linkedin.com/in/graziella-bedani-5aa368278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/graziellabedani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/graziellabedani)
 
 ---
 
@@ -46,19 +39,3 @@ Aqui estão alguns dos meus projetos disponíveis neste repositório:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=graziellabedani&show_icons=true&count_private=true&hide=prs)
 
----
-
-## 📝 Últimos Posts
-
-- [Como subir um projeto para o GitHub](https://github.com/graziellabedani/Project_Agro/issues/1)
-- [Dicas para iniciantes em Ciência da Computação](https://github.com/graziellabedani/Project_Agro/issues/2)
-
----
-
-## 📢 Contribuições
-
-Estou sempre aberta a colaborações! Se você tem interesse em algum dos meus projetos ou deseja discutir ideias, fique à vontade para entrar em contato.
-
----
-
-**Nota**: Substitua os links de exemplo pelos reais, conforme necessário.
