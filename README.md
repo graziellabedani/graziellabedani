@@ -1,38 +1,64 @@
-### Olá! Meu nome é Graziella Bedani. Seja muito bem-vindo!
+# Olá, eu sou a Graziella Bedani 👩‍💻
 
-<hr>
-- Mentora e Coord. de Marketing do projeto DevMenthors | Marília-sp.
-- Bolsista Pibic em Iniciação Científica 🔬
-- 3/8 Ciencias da Computação📚
-- Analista Customer Service 
-  
+![Graziella Bedani](https://via.placeholder.com/150)
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=graziellabedani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graziellabedani&layout=compact&langs_count=16&theme=dracula"/>
-  
-</div>
-<br>
-<hr>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+## 🎓 Sobre mim
 
-</br>
-<div> 
-  <a href="https://instagram.com/graziellabedani?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Sou estudante de **Ciência da Computação** e apaixonada por tecnologia e inovação. Ao longo da minha jornada acadêmica, tive a oportunidade de me aprofundar em áreas como:
 
+- **Inteligência Artificial**
+- **Desenvolvimento Web**
+- **Banco de Dados**
+- **Engenharia de Software**
 
+## 🧪 Experiência Acadêmica
 
+- **Bolsista PIBIC** em Iniciação Científica, com foco em [tema do projeto]. Durante esse período, desenvolvi habilidades em pesquisa, análise de dados e elaboração de artigos científicos.
 
+## 🚀 Formação Complementar
 
+- **Finalista do Bootcamp Sebrae Spark**, onde aprimorei minhas habilidades em desenvolvimento ágil, trabalho em equipe e resolução de problemas práticos.
 
+## 📚 Projetos em Destaque
+
+Aqui estão alguns dos meus projetos disponíveis neste repositório:
+
+- **[Project Agro](https://github.com/graziellabedani/Project_Agro)**: Aplicação web para visualização e gestão de dados do agronegócio.
+- **[Outro Projeto](https://github.com/graziellabedani/Outro_Projeto)**: Descrição breve do projeto.
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/graziellabedani)
+- [Email](mailto:graziellabedani@gmail.com)
+
+---
+
+## 🔧 Ferramentas e Tecnologias
+
+- Linguagens: Python, JavaScript, HTML, CSS
+- Frameworks: Flask, React
+- Banco de Dados: SQLite, PostgreSQL
+- Ferramentas: Git, GitHub, Docker
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=graziellabedani&show_icons=true&count_private=true&hide=prs)
+
+---
+
+## 📝 Últimos Posts
+
+- [Como subir um projeto para o GitHub](https://github.com/graziellabedani/Project_Agro/issues/1)
+- [Dicas para iniciantes em Ciência da Computação](https://github.com/graziellabedani/Project_Agro/issues/2)
+
+---
+
+## 📢 Contribuições
+
+Estou sempre aberta a colaborações! Se você tem interesse em algum dos meus projetos ou deseja discutir ideias, fique à vontade para entrar em contato.
+
+---
+
+**Nota**: Substitua os links de exemplo pelos reais, conforme necessário.
