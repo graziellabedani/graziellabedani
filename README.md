@@ -37,7 +37,3 @@
 
 ![My GitHub Game](game.gif)
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=graziellabedani&show_icons=true&count_private=true&hide=prs)
-
