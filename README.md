@@ -1,16 +1,11 @@
-# Olá, eu sou a Graziella Bedani 👩‍💻
-## 👋 Sobre mim
-🎓 Estudante de Tecnologia
-💻 Interessada em desenvolvimento, APIs, sistemas distribuídos e soluções digitais
-🚀 Sempre aprendendo algo novo e construindo projetos práticos
-
-##🧠 Sobre mim
-
-📚 Atualmente estudando desenvolvimento de software e arquitetura de sistemas
+  # Olá, eu sou a Graziella Bedani 👩‍💻
+  
+## 🧠 Sobre mim
+📚 Estudante de Tecnologia
 🔧 Experiência com projetos acadêmicos, APIs e protótipos de soluções tecnológicas
 🤝 Gosto de trabalhar em equipe, hackathons e desafios reais
 🌱 Aprendendo mais sobre backend, Flutter e boas práticas de código
-
+🚀 Sempre aprendendo algo novo e construindo projetos práticos
 
 ## 🧪 Experiência Acadêmica
 
