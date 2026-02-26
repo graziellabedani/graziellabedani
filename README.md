@@ -16,6 +16,7 @@
 - **Mentora/Professora no projeto Devmenthors** – Atuação no desenvolvimento de habilidades pedagógicas e de mentoria para ensinar programação e tecnologia.  
 - **Finalista do Bootcamp Sebrae Spark** – Aprimoramento em desenvolvimento ágil, trabalho em equipe e resolução de problemas práticos para startups.  
 - **Finalista do 13º Congresso de Pesquisa Científica** – Reconhecida como **Melhor da Sessão**.
+- **Finalista do 15º Congresso de Pesquisa Científica** – Reconhecida como **Melhor da Sessão**.
 
 ## 📫 Como me encontrar
 
