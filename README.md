@@ -32,12 +32,14 @@
 
 ## 🔧 Ferramentas e Tecnologias
 
-- Linguagens: Python, JavaScript, HTML, CSS
-- Frameworks: Flask, React
-- Banco de Dados: SQLite, PostgreSQL
-- Ferramentas: Git, GitHub, Docker
+- Linguagens: Python, JavaScript, HTML, CSS, Dart, PHP, C#
+- Frameworks: Flask, React, Flutter, Laravel
+- Banco de Dados: SQLite, MySQL, Workbench
+- Ferramentas: Git, GitHub, Docker, Jira, Android Studio 
 
 ---
+
+![My GitHub Game](game.gif)
 
 ## 📈 Estatísticas do GitHub
 
